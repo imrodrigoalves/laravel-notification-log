@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-notification-log",
+    "name": "imrodrigoalves/laravel-notification-log",
     "description": "Log notifications sent by your Laravel app",
     "keywords": [
         "spatie",
@@ -8,16 +8,9 @@
     ],
     "homepage": "https://github.com/spatie/laravel-notification-log",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Freek Van der Herten",
-            "email": "freek@spatie.be",
-            "role": "Developer"
-        }
-    ],
     "require": {
         "php": "^8.1",
-        "illuminate/contracts": "^9.0|^10.0",
+        "illuminate/contracts": "^9.28|^10.0",
         "spatie/laravel-package-tools": "^1.14.0",
         "spatie/test-time": "^1.3"
     },
